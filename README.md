@@ -1,19 +1,53 @@
-# Getting Started
-Install the dependencies and run the project
+# 🎂 Birthday Gift Card
+
+A simple and interactive birthday gift card created with HTML and CSS.
+
+## ✨ About
+
+This project is a digital birthday card designed to make someone's special day a little more memorable.
+
+It includes a clean and creative design with a personalized birthday message and a simple interactive experience.
+
+## 🛠️ Built With
+
+* HTML5
+* CSS3
+
+## 🎁 Features
+
+* 🎂 Birthday-themed design
+* 💌 Personalized message
+* ✨ Simple and clean UI
+* 📱 Responsive layout
+* 🎨 Custom styling and animations
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
 ```
-npm install
-npm start
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+That's it! 🎉
+
+## 📂 Project Structure
+
+```text
+birthday-gift-card/
+├── index.html
+├── style.css
+└── README.md
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## ❤️ Purpose
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+This project was created as a small digital birthday surprise — because sometimes a simple card can mean a lot.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 👨‍💻 Author
 
-Happy Coding!
+**Shady Elmougy**
